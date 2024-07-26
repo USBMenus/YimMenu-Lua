@@ -1,2 +1,2 @@
 # YimMenu-Lua
-scripts ive made in lua for yimmenu
+collection of scripts ive made in lua for yimmenu
